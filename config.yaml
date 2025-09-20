@@ -1,0 +1,6 @@
+discord:
+  serverStatusChannelId: '1234'
+
+servers:
+  - address: 127.0.0.1:27025
+    type: l4d2
